@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/src_solution/main.cpp
+iostream
+-
+string
+-
+algorithm
+-
+solution.h
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/src_solution/solution.h
+
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/src_solution/solution.h
+iostream
+-
+string
+-
+array
+-
+algorithm
+-
+

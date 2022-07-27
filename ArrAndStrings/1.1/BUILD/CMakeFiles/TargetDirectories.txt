@@ -1,0 +1,8 @@
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/CMakeFiles/rebuild_cache.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/CMakeFiles/edit_cache.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/src_solution/CMakeFiles/rebuild_cache.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/src_solution/CMakeFiles/edit_cache.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/src_solution/CMakeFiles/solution.out.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/src_test/CMakeFiles/rebuild_cache.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/src_test/CMakeFiles/edit_cache.dir
+/home/sdube/Desktop/GitHub/GtestProject/ArrAndStrings/1.1/BUILD/src_test/CMakeFiles/test_solution.out.dir
